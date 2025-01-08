@@ -16,17 +16,7 @@
    [https://food-sharing-26-12-24.netlify.app/](https://food-sharing-26-12-24.netlify.app/)
 
 
-4. **Key Features of my Project:**
-   - User can Register/Login.
-   - If they are logged in, they can Add food, Manage their food and make food request.
-   - User can login with their personal email or Google Email.
-   - Registered user can view all available foods in our platform.
-   - Get info about featured food (a food which has highest quantity).
-   - Get info about our history (Extra section in Home)
-   - Can read blogs about food hunger. (Extra section in hhome)
-
-
-5. **Technology:**
+4. **Technology:**
    - Firebase
    - NodeJS
    - ExpressJS
@@ -35,7 +25,7 @@
    - TailwindCSS
 
 
-6. **NPM packages/Dependencies in my project:**
+5. **NPM packages/Dependencies in my project:**
    - Tenstack Query (Used in add food and add blog)
    - Framer Motion
    - react intersection-observer (in homepage extra section- Our history)
