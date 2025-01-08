@@ -42,3 +42,7 @@
    - React Icon.
    - Swiper.
    - Firebase.
+
+ 
+6. **User Guideline to run on local machine:**
+   download zip or clone to your computer and install all dependencies (mention in 5) by using npm i (packageName) and run on your local host by npm run dev. 
