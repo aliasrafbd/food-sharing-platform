@@ -1,22 +1,16 @@
 
 <div align="center">
 
-# Welcome to my Project 11 (Client Side) (Assignment_Category_07) 
+# Welcome to my Food Sharing BD
 
 </div>
 
 1. **Name of the Project** <br>
    Food Sharing BD
 
-2. **Purpose** <br>
+2. **Overview** <br>
    In current world, Food Management is very important. Even though, we are in modern world, A millions of people are (especially in Africa continent) dyeing every year for lack of food. In Arabian countries or other rich countries people are wasting food every day for abundance of food. In Bangladesh, our platform can help poor and also rich people by sharing their food. A people can donate food through our website and request food for their needy people or people. 
 
-   Our purposes in brief- 
-   - Build a platform where people can easily share food.
-   - Donate food who have food abundance 
-   - Needy people can make food request
-   - Food management make easy.
-   - Mitigate sufferings by sharing food.
 
 3. **Live URL** <br>
    [https://food-sharing-26-12-24.netlify.app/](https://food-sharing-26-12-24.netlify.app/)
@@ -32,7 +26,16 @@
    - Can read blogs about food hunger. (Extra section in hhome)
 
 
-5. **NPM packages I have used in my project:**
+5. **Technology:**
+   - Firebase
+   - NodeJS
+   - ExpressJS
+   - MongoDB
+   - ReactJS
+   - TailwindCSS
+
+
+6. **NPM packages/Dependencies in my project:**
    - Tenstack Query (Used in add food and add blog)
    - Framer Motion
    - react intersection-observer (in homepage extra section- Our history)
@@ -49,5 +52,3 @@
    - React Icon.
    - Swiper.
    - Firebase.
-
-# Thanks for reviewing my project.
