@@ -1,4 +1,3 @@
-![{67FA3855-6345-4E4C-ABC2-F1DEDE1519FA}](https://github.com/user-attachments/assets/874a47ef-2894-415b-8a7b-328baed4ecee)
 <div align="center">
 
 # Welcome to my Food Sharing BD
