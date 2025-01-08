@@ -43,6 +43,15 @@
    - Swiper.
    - Firebase.
 
+
+6. **Key Features of my Project:**
+   - User can Register/Login.
+   - If they are logged in, they can Add food, Manage their food and make food request.
+   - User can login with their personal email or Google Email.
+   - Registered user can view all available foods in our platform.
+   - Get info about featured food (a food which has highest quantity).
+   - Get info about our history (Extra section in Home)
+   - Can read blogs about food hunger. (Extra section in home)
  
-6. **User Guideline to run on local machine:**
+7. **User Guideline to run on local machine:**
    download zip or clone to your computer and install all dependencies (mention in 5) by using npm i (packageName) and run on your local host by npm run dev. 
