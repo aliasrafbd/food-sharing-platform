@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img height="150" width="850" src="https://raw.githubusercontent.com/aliasrafbd/food-sharing-platform/refs/heads/main/food.png"  />
+  <img height="450" width="850" src="https://raw.githubusercontent.com/aliasrafbd/food-sharing-platform/refs/heads/main/food.png"  />
 </div>
 
 
